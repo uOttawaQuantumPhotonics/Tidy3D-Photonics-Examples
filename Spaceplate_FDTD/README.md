@@ -15,8 +15,10 @@ The tutorial uses finite-difference time-domain (FDTD) simulations in Tidy3D to 
 
 ## Authors
 
-Lucie Wang, Yaryna Mamchur, Manuel F. Ferrer-Garcia, and Jeff S. Lundeen  
-Nexus for Quantum Technologies, Department of Physics, University of Ottawa
+*Lucie Wang, Yaryna Mamchur, Manuel F. Ferrer-Garcia, and Jeff S. Lundeen*
+*Nexus for Quantum Technologies, Department of Physics, University of Ottawa*
+
+For questions about the code, please contact Yaryna Mamchur. For further information about the project, please contact Prof. Jeff Lundeen.
 
 ## Related publication
 
